@@ -1,16 +1,4 @@
-
-body {
-    font-family: Arial;
-    text-align: center;
-    margin-top: 60px;
-    background: #eeeeee;
-}
-input {
-    padding: 10px;
-    margin: 5px;
-}
-button {
-    padding: 10px 20px;
-    margin: 5px;
-    cursor: pointer;
+.calculator {
+    border: 2px solid black;
+    padding: 20px;
 }
